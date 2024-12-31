@@ -2,4 +2,4 @@
 
 Python3
 
-pygame
+Pygame
